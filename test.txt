@@ -1,0 +1,1 @@
+This is second test file created on GIT cmd prompt for addition to repository.
